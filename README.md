@@ -6,7 +6,7 @@
 
 
 ## Support Me!
-<!-- ![https://img.shields.io/badge/Solana-000?style=for-the-badge&logo=Solana&logoColor=9945FF](https://intel.arkm.com/explorer/address/J8PRi9Bw9UbBXZb82FnYf1PovRR6Qf6PNThnfQJFTBLX) -->
+![https://intel.arkm.com/explorer/address/J8PRi9Bw9UbBXZb82FnYf1PovRR6Qf6PNThnfQJFTBLX](https://img.shields.io/badge/Solana-000?style=for-the-badge&logo=Solana&logoColor=9945FF)
 ![https://intel.arkm.com/explorer/address/bc1qu5qgcag3c45l6chhtj9d6anc3xu66k68uqr9ry](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white)
 ![https://intel.arkm.com/explorer/address/0xc2A09135b503dB21A2E13e640540D3459A0803De](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
 
